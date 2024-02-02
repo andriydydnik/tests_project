@@ -1,0 +1,4 @@
+org\example\Main.class
+org\example\TemplateCatalog.class
+org\example\TemplaterException.class
+org\example\Templater.class
